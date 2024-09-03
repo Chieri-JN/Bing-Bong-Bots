@@ -1,0 +1,25 @@
+{
+  "name": "bing-bong-bots",
+  "version": "1.0.0",
+  "description": "Bots!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chieri-JN/Bing-Bong-Bots.git"
+  },
+  "author": "WeedMan17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chieri-JN/Bing-Bong-Bots/issues"
+  },
+  "homepage": "https://github.com/Chieri-JN/Bing-Bong-Bots#readme",
+  "dependencies": {
+    "discord.js": "^14.16.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1"
+  }
+}
