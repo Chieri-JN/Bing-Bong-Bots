@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Chieri-JN/Bing-Bong-Bots#readme",
   "dependencies": {
-    "discord.js": "^14.16.1"
+    "discord.js": "^14.16.2"
   }
 }
